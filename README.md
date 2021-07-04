@@ -4,7 +4,7 @@
 <p align="center">
 <a href="#"><img title="INDO CRACK" src="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/173047100_103862985176717_6528002251673849888_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=nHbjKAPBkuUAX9KYPcl&tn=dmUAh_40iUe_n2PJ&_nc_ht=scontent.fdac116-1.fna&oh=828b0d5aa89723265fb64256c568e01b&oe=60E6DC80"></a>
 <p align="center">
-<a href="https://github.com/htr-tech"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sojolkhan"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sojolkhan/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
