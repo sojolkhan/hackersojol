@@ -46,9 +46,9 @@ apt update ; apt install git python python2 -y ; git clone https://github.com/so
 #### [+] Easy for Beginners !
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/sojolkhan)
-[![Gitlab](https://img.shields.io/badge/Gitlab-HTR--TECH-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/sojolkhan)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sojolkhan198)
+[![Github](https://img.shields.io/badge/Github-Sojol--Khan-green?style=for-the-badge&logo=github)](https://github.com/sojolkhan)
+[![Gitlab](https://img.shields.io/badge/Gitlab-Sojol--Khan-green?style=for-the-badge&logo=gitlab)](https://gitlab.com/sojolkhan)
+[![Instagram](https://img.shields.io/badge/IG-%40Sojolkhan-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sojolkhan198)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/sh.devillking)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/sh.devillking)
 
